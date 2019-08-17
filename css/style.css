@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+}
+
+/* flex-classes */
+
+.flex {
+    display: flex;
+}
+
+.between {
+    justify-content: space-between;
+}
+
+/* header */
+
+nav .logo img {
+    width: 100px;
+}
